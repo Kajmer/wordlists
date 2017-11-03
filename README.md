@@ -8,3 +8,6 @@ DNS/
 
 Password/
 	Russian/ - wordlist based on yandex.ru, gmail.com, mail.ru leak ( *** in progress *** )
+
+Usernames/
+	russian_surnames/
