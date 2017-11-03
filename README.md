@@ -11,3 +11,4 @@ Password/
 
 Usernames/
 - russian_surnames/ - parsed http://www.edudic.ru/fam/
+- http_parser_title_file.py - http parser (with progress bar), usage: http_parser_title_file.py -o output_file.txt
