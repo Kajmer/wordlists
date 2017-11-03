@@ -10,4 +10,4 @@ Password/
 - Russian/ - wordlist based on yandex.ru, gmail.com, mail.ru leak ( *** in progress *** )
 
 Usernames/
-- russian_surnames/
+- russian_surnames/ - parsed http://www.edudic.ru/fam/
